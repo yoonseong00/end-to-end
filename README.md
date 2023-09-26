@@ -1,4 +1,4 @@
-# end to end(A)
+# end to end(C)
 
 - 강아지
 - 지각생
