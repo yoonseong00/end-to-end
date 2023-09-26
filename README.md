@@ -1,4 +1,4 @@
-# End To End(B) 안녕하세요
+# End To End(B) 반갑습니다.
 
 - 강아지
 - 지각생
